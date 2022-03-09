@@ -1,0 +1,24 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "name": "rain in the city"
+        },
+        {
+            "id": 1,
+            "name": "catastrophe"
+        },
+        {
+            "id": 1,
+            "name": "weather in world"
+        },
+        {
+            "id": 1,
+            "name": "royal family"
+        },
+        {
+            "id": 1,
+            "name": "social"
+        }
+    ]
+}
